@@ -1,0 +1,1 @@
+Mindbreeze.define(function () { return [{"init":"init","id":"Microsoft SharePoint"},{"init":"init","id":"theme"}]});
